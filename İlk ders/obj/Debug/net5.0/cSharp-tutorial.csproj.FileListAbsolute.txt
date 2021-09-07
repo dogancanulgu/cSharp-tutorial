@@ -1,0 +1,16 @@
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.exe
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.deps.json
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.runtimeconfig.json
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.runtimeconfig.dev.json
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.dll
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\ref\cSharp-tutorial.dll
+C:\Users\dogan\Proje\cSharp-tutorial\bin\Debug\net5.0\cSharp-tutorial.pdb
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.csproj.AssemblyReference.cache
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.AssemblyInfoInputs.cache
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.AssemblyInfo.cs
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.dll
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\ref\cSharp-tutorial.dll
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.pdb
+C:\Users\dogan\Proje\cSharp-tutorial\obj\Debug\net5.0\cSharp-tutorial.genruntimeconfig.cache
