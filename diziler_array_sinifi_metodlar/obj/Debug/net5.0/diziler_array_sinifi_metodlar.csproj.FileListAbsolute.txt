@@ -1,0 +1,16 @@
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.exe
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.deps.json
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.runtimeconfig.json
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.runtimeconfig.dev.json
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.dll
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\ref\diziler_array_sinifi_metodlar.dll
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\bin\Debug\net5.0\diziler_array_sinifi_metodlar.pdb
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.csproj.AssemblyReference.cache
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.AssemblyInfoInputs.cache
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.AssemblyInfo.cs
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.dll
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\ref\diziler_array_sinifi_metodlar.dll
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.pdb
+C:\Users\dogan\Proje\cSharp-tutorial\diziler_array_sinifi_metodlar\obj\Debug\net5.0\diziler_array_sinifi_metodlar.genruntimeconfig.cache
